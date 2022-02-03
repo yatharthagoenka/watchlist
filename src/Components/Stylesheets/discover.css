@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+#discoverhead{
+    color: white;
+    margin-left: 10%;
+    font-family: 'Poppins',sans-serif;
+    font-size: 2.2rem;
+    margin-top: 50px;
+    margin-bottom: -30px;
+}
+
